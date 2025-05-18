@@ -45,7 +45,7 @@
           <div class="input-group glass-effect">
             <i class="fas fa-user-md"></i>
             <select name="role" id="role" required>
-              <option value="doctor">Médecin</option>
+              <option value="doctor">Médecine</option>
               <option value="user">Utilisateur</option>
             </select>
           </div>
